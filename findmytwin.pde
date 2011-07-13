@@ -1,5 +1,9 @@
-// Imports
+/**
+Johan Bichel Lindegaard public@johan.cc
+Mads Høbye mads@hobye.dk
+*/
 
+// Imports
 import android.provider.Settings;
 import android.view.WindowManager;
 import android.os.PowerManager;
