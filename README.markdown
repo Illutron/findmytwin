@@ -1,6 +1,9 @@
 #  Find my twin
 Android app developed during Mobile inside out workshop at [Illutron](http://illutron.dk).  
 
+![Find my twin first test in H. C. Ørstedsparken Copenhagen](http://illutron.dk/pictures/0000/3715/IMG_9091_custom750x500_.JPG)
+
+
 ## Concept
 2 lonely boxes got lost from each other and wants to get back together. Random bypassers may find them and help them find each other again. The boxes each have a small speaker or headphone plug and a lens through which you see a pointer pointing towards a common meeting point. Both have a small drawer with a combination lock and a label with the key to the other lock. One drawer could contain two glasses and the other a bottle of champagne.  
 
